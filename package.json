@@ -1,0 +1,8 @@
+{
+  "name": "jubbio-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@jubbio/core": "^1.0.0"
+  }
+}
